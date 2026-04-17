@@ -1,0 +1,10 @@
+bin/
+obj/
+.vs/
+.idea/
+
+*.exe
+*.dll
+*.cache
+*.pdb
+*.deps.json
